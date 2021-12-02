@@ -110,7 +110,7 @@ int main() {
                 // solve the logical error
                 // x which is better as industrial level? skip or check?
                 // [4,*5,0,5]
-                // we will make a function
+                // we will make a    function
                 int eliminationIndex = check_elimination(position,i,noOfPlayers);
 
                 // eliminate karenge
